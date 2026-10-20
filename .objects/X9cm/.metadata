@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Google_App",
+  "Type": "App",
+  "Id": "X9cm2WRCn0Sdu-9zIY6SNg",
+  "Reference": "_4BHWmow1ku1g1DhI54yog/X9cm2WRCn0Sdu-9zIY6SNg",
+  "Created": "2026-10-20T07:03:03.4502631Z",
+  "Updated": "2026-10-20T07:03:03.4502631Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

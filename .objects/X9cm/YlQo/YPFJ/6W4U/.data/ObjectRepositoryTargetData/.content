@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sRsS6KpxIkqeI91ULwcTHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="86, 406, 118, 26" DesignTimeScaleFactor="1.5" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='AI Overview' aria-role='heading' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='heading' tag='DIV' type='' class='Fzsovc cwYVJe RJPOee' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="11a6bd59-cf56-4081-9b1a-954de237100f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='&amp;quot;Open UiPath&amp;quot; - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="3e5793a0a7409d813cd96de0383a5963.jpg" xmlns="">0TWvbHR3Hi0aXNOI69acG1g</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
