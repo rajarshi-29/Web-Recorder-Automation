@@ -1,4 +1,4 @@
-"# Web Recorder Automation
+# Web Recorder Automation
 
 A basic UiPath Windows process for browser automation with Microsoft Edge.
 
@@ -11,4 +11,5 @@ A basic UiPath Windows process for browser automation with Microsoft Edge.
 
 - UiPath Studio
 - Microsoft Edge
-" 
+  
+---
